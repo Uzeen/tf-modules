@@ -1,0 +1,8 @@
+--> Modules
+
+Are the reuseable components or part of code that can be used to create the 
+infrastructrue in different environments or projects.
+
+-- We never use hardcoded valuse in Modules, evey thing should be veriableized
+-- Module can be kept at any remote location or Git repo or seperate folders 
+
