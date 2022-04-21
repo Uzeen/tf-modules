@@ -1,0 +1,11 @@
+// How to create local repository in GIT
+git init
+// How to conect local repo to remote repo
+git remote add origin repoURL
+// How to list all the branches in GIT
+git branch -a
+// How to change the branch
+git checkout branchName
+// What is the difference between checkout and switch
+
+// How to create new branch
